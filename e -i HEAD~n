@@ -1,0 +1,23 @@
+[33mcommit 43b6b0a484390838f0dbd04cd31bb0535d91c6c0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Himanshu Chaudhary <[1;31mhimanshu+github.44144@gmail.com[m>
+Date:   Sun May 12 15:48:55 2024 -0400
+
+    Adding lineinfile.yml
+
+[33mcommit 0b28206044971577bff5a9ce4c95556056241788[m
+Author: Himanshu Chaudhary <[1;31mhimanshu+github.44144@gmail.com[m>
+Date:   Sun May 12 14:56:03 2024 -0400
+
+    Addidng ansible blockinfile.yaml
+
+[33mcommit 57a98724625d16146480ec0d8d3922330da21c85[m
+Author: Himanshu Chaudhary <[1;31mhimanshu+github.44144@gmail.com[m>
+Date:   Sat May 11 18:08:14 2024 -0400
+
+    Adding unarchive playbook for ansible
+
+[33mcommit 71ba25e106df3ce0e0b27bdadf8a26ded62c61c1[m
+Author: Himanshu Chaudhary <[1;31mhimanshu+github.44144@gmail.com[m>
+Date:   Sat May 11 17:38:20 2024 -0400
+
+    Adding playbook for archivin directories
